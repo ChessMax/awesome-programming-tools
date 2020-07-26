@@ -1,5 +1,5 @@
 # Awesome programming tools
-The list of awesome programming tools that can simplify and speed up everyday work. If you are looking for a tool then this list for you! Here you can find interesting programming tools that are not well known for someone, but can be very usefull. Feel free to make a contribution.
+The list of awesome programming tools that can simplify and speed up everyday work. If you are looking for a tool then this list for you! Here you can find interesting programming tools that are not well known, but can be very usefull. Feel free to make a contribution.
 
 # Online tools
 ## Programming pads, online compilers, code playgrounds & IDEs:
