@@ -2,7 +2,7 @@
 The list of awesome programming tools that can simplify and speed up everyday work. If you are looking for a tool then this list for you! Here you can find interesting programming tools that are not well known for someone, but can be very usefull. Feel free to make a contribution.
 
 # Online tools
-## Programming pads, online compilers, code playground & IDEs:
+## Programming pads, online compilers, code playgrounds & IDEs:
 - [DartPad](https://dartpad.dev/) - DartPad is a free, open-source online editor to help developers learn about Dart and Flutter. 
 - [DotNetFiddle](https://dotnetfiddle.net/) - If you are sick and tired of starting Visual Studio, creating a new project and running it, just to test simple code or try out samples from other developers you can use DotNetFiddle instead.
 
