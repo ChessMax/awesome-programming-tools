@@ -16,3 +16,7 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [QuickType](https://app.quicktype.io/) - QuickType is a tool to generate strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
 # Offline tools
+
+#Analysers
+## Math:
+[Herbie](https://herbie.uwplse.org/demo/) - Herbie - a tool that tells you how to rewrite your maths expressions in a way that preserves IEEE 754 precision better.
