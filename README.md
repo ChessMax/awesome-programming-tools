@@ -12,6 +12,9 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [TryHaxe](https://try.haxe.org/) - The Haxe online playground.
 - [TryItOnline](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages. This services supports ~700 of programming languages.
 
+## API:
+- [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
+
 ## Code generators:
 - [QuickType](https://app.quicktype.io/) - QuickType is a tool to generate strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
