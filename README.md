@@ -24,6 +24,9 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [Desmos matrix calc](https://www.desmos.com/matrix) - Matrix calculator.
 - [Desmos geom tools](https://www.desmos.com/geometry) - Geometry tools.
 
+## Art:
+- [Glyphter](https://glyphter.com) - Icon font generator.
+
 # Offline tools
 
 #Analysers
