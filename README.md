@@ -19,6 +19,10 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 ## Code generators:
 - [QuickType](https://app.quicktype.io/) - QuickType is a tool to generate strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
+## Code highlighting:
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+Start typing or drop a file into the text area to get started.
+
 ## Math:
 - [Desmos graphic calc](https://www.desmos.com/calculator) - Graphic calculator.
 - [Desmos scientific calc](https://www.desmos.com/scientific) - Scientific calculator.
