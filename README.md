@@ -28,6 +28,7 @@ Start typing or drop a file into the text area to get started.
 - [Desmos scientific calc](https://www.desmos.com/scientific) - Scientific calculator.
 - [Desmos matrix calc](https://www.desmos.com/matrix) - Matrix calculator.
 - [Desmos geom tools](https://www.desmos.com/geometry) - Geometry tools.
+- [GeoGebra](https://www.geogebra.org/calculator) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more.
 
 ## Art:
 - [Glyphter](https://glyphter.com) - Icon font generator.
