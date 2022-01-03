@@ -38,7 +38,7 @@ Start typing or drop a file into the text area to get started.
 #Analysers
 
 ## Presentation:
-[Slidev](https://sli.dev) - Presentation Slides for Developers.
+- [Slidev](https://sli.dev) - Presentation Slides for Developers.
 
 ## Math:
-[Herbie](https://herbie.uwplse.org/demo/) - Herbie - a tool that tells you how to rewrite your maths expressions in a way that preserves IEEE 754 precision better.
+- [Herbie](https://herbie.uwplse.org/demo/) - Herbie - a tool that tells you how to rewrite your maths expressions in a way that preserves IEEE 754 precision better.
