@@ -9,6 +9,7 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [Ohmlang Editor](https://ohmlang.github.io/editor/) - Online grammar editor that can visualize and explain your grammar.
 - [Rust Playground](https://play.rust-lang.org/) - The Rust Playground allows you to experiment with Rust before you install it locally, or in any other case where you might not have the compiler available.
 - [Repl.it](https://repl.it/) - Repl.it is a free, collaborative, in-browser IDE to code in 50+ languages — without spending a second on setup.
+- [Rextester](https://rextester.com/) - This site allows to compile on web with varity different languages: from C# to Assembly.
 - [SharpLab](https://sharplab.io) - SharpLab is a .NET code playground that shows intermediate steps and results of code compilation. Some language features are thin wrappers on top of other features -- e.g. using() becomes try/finally. SharpLab allows you to see the code as compiler sees it, and get a better understanding of .NET languages. SharpLab supports three source languages: C#/VB/F#. There are currently three targets for decompilation/disassembly: C#/IL/JIT Asm. You can use "Run" target to execute your code and see the output.
 - [TryHaxe](https://try.haxe.org/) - The Haxe online playground.
 - [TryItOnline](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages. This services supports ~700 of programming languages.
