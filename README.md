@@ -31,6 +31,9 @@ Start typing or drop a file into the text area to get started.
 - [Desmos geom tools](https://www.desmos.com/geometry) - Geometry tools.
 - [GeoGebra](https://www.geogebra.org/calculator) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more.
 
+## Game dev:
+ - [Graphics related diagrams](http://renderdiagrams.org/editor) - Well drawn diagrams are essential in explaining concepts to others but also in improving your own understanding. Topics such as lighting, shadows and BRDF equations are extremely difficult to get across without pretty pictures! Free render diagrams editor can help with it.
+
 ## Art:
 - [Glyphter](https://glyphter.com) - Icon font generator.
 
