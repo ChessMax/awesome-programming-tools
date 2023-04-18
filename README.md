@@ -6,6 +6,7 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [CppInsights](https://cppinsights.io/) - Online C++ decopiler and code explorer tool.
 - [DartPad](https://dartpad.dev/) - DartPad is a free, open-source online editor to help developers learn about Dart and Flutter. 
 - [DotNetFiddle](https://dotnetfiddle.net/) - If you are sick and tired of starting Visual Studio, creating a new project and running it, just to test simple code or try out samples from other developers you can use DotNetFiddle instead.
+- [Float exposed](https://float.exposed) - Real numbers visualization service.
 - [JsFiddle](https://jsfiddle.net/) - JsFiddle is a JavaScript, CSS, HTML or CoffeeScript online code editor.
 - [Ohmlang Editor](https://ohmlang.github.io/editor/) - Online grammar editor that can visualize and explain your grammar.
 - [Rust Playground](https://play.rust-lang.org/) - The Rust Playground allows you to experiment with Rust before you install it locally, or in any other case where you might not have the compiler available.
