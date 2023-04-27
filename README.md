@@ -7,6 +7,7 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [DartPad](https://dartpad.dev/) - DartPad is a free, open-source online editor to help developers learn about Dart and Flutter. 
 - [DotNetFiddle](https://dotnetfiddle.net/) - If you are sick and tired of starting Visual Studio, creating a new project and running it, just to test simple code or try out samples from other developers you can use DotNetFiddle instead.
 - [Float exposed](https://float.exposed) - Real numbers visualization service.
+- [Go Playground](https://go.dev/play/) - The Go Playground is a web service that runs on go.dev's servers. The service receives a Go program, vets, compiles, links, and runs the program inside a sandbox, then returns the output. 
 - [JsFiddle](https://jsfiddle.net/) - JsFiddle is a JavaScript, CSS, HTML or CoffeeScript online code editor.
 - [Ohmlang Editor](https://ohmlang.github.io/editor/) - Online grammar editor that can visualize and explain your grammar.
 - [Rust Playground](https://play.rust-lang.org/) - The Rust Playground allows you to experiment with Rust before you install it locally, or in any other case where you might not have the compiler available.
@@ -15,7 +16,6 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [SharpLab](https://sharplab.io) - SharpLab is a .NET code playground that shows intermediate steps and results of code compilation. Some language features are thin wrappers on top of other features -- e.g. using() becomes try/finally. SharpLab allows you to see the code as compiler sees it, and get a better understanding of .NET languages. SharpLab supports three source languages: C#/VB/F#. There are currently three targets for decompilation/disassembly: C#/IL/JIT Asm. You can use "Run" target to execute your code and see the output.
 - [TryHaxe](https://try.haxe.org/) - The Haxe online playground.
 - [TryItOnline](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages. This services supports ~700 of programming languages.
-- [Go Playground](https://go.dev/play/) - The Go Playground is a web service that runs on go.dev's servers. The service receives a Go program, vets, compiles, links, and runs the program inside a sandbox, then returns the output. 
 
 ## API:
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
