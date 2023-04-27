@@ -16,6 +16,7 @@ The list of awesome programming tools that can simplify and speed up everyday wo
 - [SharpLab](https://sharplab.io) - SharpLab is a .NET code playground that shows intermediate steps and results of code compilation. Some language features are thin wrappers on top of other features -- e.g. using() becomes try/finally. SharpLab allows you to see the code as compiler sees it, and get a better understanding of .NET languages. SharpLab supports three source languages: C#/VB/F#. There are currently three targets for decompilation/disassembly: C#/IL/JIT Asm. You can use "Run" target to execute your code and see the output.
 - [TryHaxe](https://try.haxe.org/) - The Haxe online playground.
 - [TryItOnline](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages. This services supports ~700 of programming languages.
+- [Zig Playground](https://zig-play.dev/) - This is a rudimentary online compiler for the Zig programming language.
 
 ## API:
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping.
