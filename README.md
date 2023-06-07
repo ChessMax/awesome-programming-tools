@@ -34,6 +34,7 @@ Start typing or drop a file into the text area to get started.
 - [Desmos matrix calc](https://www.desmos.com/matrix) - Matrix calculator.
 - [Desmos geom tools](https://www.desmos.com/geometry) - Geometry tools.
 - [GeoGebra](https://www.geogebra.org/calculator) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more.
+- [GraphToy](https://graphtoy.com/) - Free web service to visualize graphs.
 - [Kalk](https://github.com/xoofx/kalk/) - Kalk is a powerful command line calculator app for developers.
 
 ## Game dev:
