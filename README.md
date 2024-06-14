@@ -47,6 +47,9 @@ Start typing or drop a file into the text area to get started.
 
 #Analysers
 
+## HTTP
+- [Hurl](https://hurl.dev/) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format. It can chain requests, capture values and evaluate queries on headers and body response. Hurl is very versatile: it can be used for both fetching data and testing HTTP sessions. Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
+
 ## Presentation:
 - [Slidev](https://sli.dev) - Presentation Slides for Developers.
 
