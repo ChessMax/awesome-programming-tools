@@ -47,6 +47,9 @@ Start typing or drop a file into the text area to get started.
 
 #Analysers
 
+## Data formats:
+- [Data Format Workbench](https://apps.microsoft.com/detail/9nxzwn74wqn5?hl=en-US) - Paid Windows app for inspecting, filtering and converting JSON, CSV, XML and other structured formats, with table/tree views and JSONPath extraction. US price: $5.99; trial available.
+
 ## HTTP
 - [Hurl](https://hurl.dev/) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format. It can chain requests, capture values and evaluate queries on headers and body response. Hurl is very versatile: it can be used for both fetching data and testing HTTP sessions. Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
 
