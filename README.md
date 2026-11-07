@@ -41,6 +41,7 @@ Start typing or drop a file into the text area to get started.
  - [Graphics related diagrams](http://renderdiagrams.org/editor) - Well drawn diagrams are essential in explaining concepts to others but also in improving your own understanding. Topics such as lighting, shadows and BRDF equations are extremely difficult to get across without pretty pictures! Free render diagrams editor can help with it.
 
 ## Art:
+- [ASCII Images](https://ascii-images.com/image-to-ascii) - Free, no-account browser tool for converting images into character artwork.
 - [Glyphter](https://glyphter.com) - Icon font generator.
 
 # Offline tools
