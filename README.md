@@ -55,6 +55,7 @@ Start typing or drop a file into the text area to get started.
 
 ## Math:
 - [Herbie](https://herbie.uwplse.org/demo/) - Herbie - a tool that tells you how to rewrite your maths expressions in a way that preserves IEEE 754 precision better.
+- [Calculation Hub Quadratic Formula Calculator](https://calculation-hub.com/math/quadratic-formula) - Solve quadratic equations with substitution steps, discriminant analysis, and real or complex roots.
 
 ## Other:
 - [Everything](https://www.voidtools.com/en-us/) - Locate files and folders by name instantly.
