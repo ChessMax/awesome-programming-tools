@@ -36,6 +36,7 @@ Start typing or drop a file into the text area to get started.
 - [GeoGebra](https://www.geogebra.org/calculator) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more.
 - [GraphToy](https://graphtoy.com/) - Free web service to visualize graphs.
 - [Kalk](https://github.com/xoofx/kalk/) - Kalk is a powerful command line calculator app for developers.
+- [FlashKit IEEE 754 Converter](https://www.flashkit.tools/tool/ieee-754-converter/) - Free in-browser float32/float64 bit viewer: type a decimal or hex, click bits to flip them, and see the exact stored decimal and rounding error.
 
 ## Game dev:
  - [Graphics related diagrams](http://renderdiagrams.org/editor) - Well drawn diagrams are essential in explaining concepts to others but also in improving your own understanding. Topics such as lighting, shadows and BRDF equations are extremely difficult to get across without pretty pictures! Free render diagrams editor can help with it.
